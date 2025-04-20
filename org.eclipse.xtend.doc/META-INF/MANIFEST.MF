@@ -1,0 +1,86 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.1
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.xtend.doc;singleton:=true
+Bundle-Version: 2.30.0.v20230227-1300
+Bundle-Vendor: %providerName
+Require-Bundle: org.eclipse.help;bundle-version="3.9.100"
+Eclipse-LazyStart: true
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/xtext-xtend
+ .git;path="org.eclipse.xtend.doc";commitId=e8ab180c7eccc3437a07a21b4413
+ 224f9ef4a01b
+
+Name: contents/images/Xtend_and_Java.png
+SHA-256-Digest: 5DewEFkKh4/3Q1VAYF5STcS/jXwWTNbRTaPr8WjcZHg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: plugin.xml
+SHA-256-Digest: SGOkkupQBDDAxZ96OqUxlDHDEsrMnwc6pLhXyyLnESk=
+
+Name: contents/book.css
+SHA-256-Digest: y/UM3+2p37SH9FDoMkSCQCmTJw5re6BC8eHRibZ+LvQ=
+
+Name: contents/code.css
+SHA-256-Digest: H3j7hkXeS+aXyXss+AzpqW3iFSw0OiYd77z0dri6Sas=
+
+Name: contents/toc.xml
+SHA-256-Digest: QGuLRr0XiVRt4XCdEzqVraHkF/6arjoU1ocO1gx/Y5c=
+
+Name: META-INF/maven/org.eclipse.xtend/org.eclipse.xtend.doc/pom.xml
+SHA-256-Digest: LT/DGviYBQTj4Qx0T951jo7hSexp97K4iwvk//BxwO4=
+
+Name: contents/images/getting-started-editor.png
+SHA-256-Digest: LZ0akc1iA3CUrX6aJeVJli0cjh76Ph5JpyynGxEJves=
+
+Name: contents/index.html
+SHA-256-Digest: SrlWatRL5E0jDo7CtAQMtpfYVulFx1cTrQfF/GXp2pI=
+
+Name: contents/images/getting-started-project-layout.png
+SHA-256-Digest: vZj23ZnjZU3aMbiq2L8wz0LhQyNhL4K5wcXhMungzYE=
+
+Name: contents/images/getting-started-wizard.png
+SHA-256-Digest: FIkpiT6MKbDNI85Q8mV2CDBkPaI3l0opR6xehBmWjk8=
+
+Name: META-INF/maven/org.eclipse.xtend/org.eclipse.xtend.doc/pom.propert
+ ies
+SHA-256-Digest: 5qYdPJZ53Z0Wj2Pmyqz8EvZIUQWGoACg7YwLURASarU=
+
+Name: contents/203_xtend_expressions.html
+SHA-256-Digest: 95YvONNVC1h9SYL1tmv6DNEVGsgvHAqcd/pJ4kJxLe8=
+
+Name: contents/101_gettingstarted.html
+SHA-256-Digest: EWSfsRISv9LMQNLsVfLu9YlAlP74I9UM9ePfTAWxieo=
+
+Name: contents/images/Xtend_template_coloring.png
+SHA-256-Digest: IjQyZR9IbGj4uoR5RhtJd8DO3gz9F+zFAs1u9WwH8Oo=
+
+Name: contents/images/pdf_icon.gif
+SHA-256-Digest: SDjAtqMbX0KVTsYQXRP6jCU7yxZ9ekNlik+VT81BfDA=
+
+Name: contents/201_types.html
+SHA-256-Digest: Ht1IVLbPLaPCSTuVyeIbs7mr4Q+cH9nQKGno/tBjm64=
+
+Name: contents/204_activeannotations.html
+SHA-256-Digest: 6Ucy/3K3Xhll/66/b2r+jkHPNVjgajuOQpqK4fUZ10c=
+
+Name: plugin.properties
+SHA-256-Digest: k7NEYQXRcrK3Rv961BlFIyXiK7Yi7p9z9+Beb/FfinY=
+
+Name: contents/images/configure-compiler-in-eclipse.png
+SHA-256-Digest: 2AuPm4qNzpPjyinPDbe49CJFd8TREnDMxiOE0dPBw8o=
+
+Name: contents/202_xtend_classes_members.html
+SHA-256-Digest: fWi+1zCeKVHmbNOJvpEafw1x4fm6n3Th/HSDONdcyU8=
+
+Name: contents/102_moviesexample.html
+SHA-256-Digest: pdTyfXwDpI2dCm3pH/kHiOdXSHMOe3IO9oSd1euR3qA=
+
+Name: contents/images/Xtend-Logo.png
+SHA-256-Digest: bn4ZX/SYPIWbjcXKqPSE76mrF600f+xfVSB81Iq1y3A=
+
